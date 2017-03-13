@@ -1,0 +1,14 @@
+.ui.container.App {
+  margin-top: 30px;
+  width: 290px;
+}
+
+.Select--single {
+  max-width: 290px;
+  margin-bottom: 30px;
+}
+
+.attribution {
+  max-width: 290px;
+  text-align: center;
+}
